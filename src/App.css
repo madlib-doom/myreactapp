@@ -40,3 +40,15 @@
 .App-div {
 background-color: chocolate;
 }
+.links{
+  margin: 10px;
+  background-color: gold;
+  text-align: center;
+  color: chocolate;
+  padding:5px;
+  margin-top: 50px;
+  font-size: 20px;
+  border-radius: 10px;
+
+
+}
